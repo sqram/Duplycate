@@ -377,11 +377,5 @@ if __name__ == "__main__":
 	app = Duplycate()
 	main()
 
-'''david3432:stoney
-/media/shared/stuff/PSDs
-/media/shared/RECYCLER
-/media/shared/System Volume Information
-'''
-
 
 
